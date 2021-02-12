@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning "Developing Android apps with Kotlin"
 - 👯 I’m looking to collaborate on Linkedln.
 - 🤔 I’m looking for help with OpenSource projects
-- 💬 Ask me about HTML,CSS,Python or free certification course
+- 💬 Ask me about HTML,CSS and Python 
 - 📫 How to reach me: Linkedln -https://www.linkedin.com/in/divya-sri-a188321bb/
 - 😄 Pronouns: She/Her
 
