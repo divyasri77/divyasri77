@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently pursuing my 2nd year Bachelor's Computer Science degree
+- 🔭 I’m currently pursuing my 2nd year Bachelor's Computer Science degree in Velammal College of Engineering and Technology
 - 🌱 I’m currently learning "Developing Android apps with Kotlin"
 - 👯 I’m looking to collaborate on Linkedln.
 - 🤔 I’m looking for help with OpenSource projects
