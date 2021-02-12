@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML,CSS and Python**
 
-- 📫 How to reach me  [\[Mail-@DIVYA \]](https://mail.google.com/mail/u/0/#inbox) 
+- 📫 How to reach me <a href="mailto:divyasri7702@gmail.com"></a> 
 
 - 😄 Pronouns: **She/Her**
 
