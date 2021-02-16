@@ -16,8 +16,6 @@
 
 - 🔭 I’m currently working on Flutter based projects
 
- - Wanna know more about me :> [\[My portfolio\]](https://divyasri77.github.io/portfolio/)
-
 - 🥅 2021 Goals:
 <ol>
      <li>To get an Internship</br></li>
