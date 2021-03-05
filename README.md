@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently pursuing my **2nd year Bachelor's Computer Science degree** in Velammal College of Engineering and Technology
 
-- 🌱 I’m currently learning **Android Development with Kotlin** and **Data Analysis with Python**
+- 🌱 I’m currently learning **Android Development with Kotlin** and **Web Development with Python-Django**
 
 - 💬 Ask me about **HTML,CSS and Python**
 
