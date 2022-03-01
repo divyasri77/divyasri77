@@ -8,22 +8,20 @@
 
 - 🌱 I’m currently learning **Android Development with Kotlin** and **Web Development with Python-Django**
 
-- 💬 Ask me about **HTML,CSS and Python**
+- 💬 Ask me about **HTML,CSS,Django,Python,Java**
 
 - 📫 How to reach me <a href="mailto:divyasri7702@gmail.com">Email</a> 
 
 - 😄 Pronouns: **She/Her**
 
-- 🔭 I’m currently working on Flutter based projects
 
-- 🥅 2021 Goals:
+- 🥅 2022 Goals:
 <ol>
      <li>To get an Internship</br></li>
-     <li>Start Freelancing</br></li>
-     <li>Start Contributing to Open Source projects</br></li>
-     <li>To be a mentor in atleast 5 Hackathons</br></li>
-     <li>To get into Microsoft Learn Student Ambassador </br></li>
-     <li>To start a YouTube Channel</br></li>
+     <li>Improve my problem solving skills</br></li>
+     <li>Build some new projects</br></li>
+     <li>To win a Hackathon</br></li>
+     
  </ol>
  
  -Wanna know more about me -[\[MY PORTFOLIO\]](https://divyasri77.github.io/portfolio_ds/)
