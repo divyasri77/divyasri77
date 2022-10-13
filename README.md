@@ -4,25 +4,14 @@
 
 
 
-- 🔭 I’m currently pursuing my **3rd year Bachelor's Computer Science degree** in Velammal College of Engineering and Technology
+- 🔭 I’m currently pursuing my **4th year Bachelor's Computer Science degree** in Velammal College of Engineering and Technology
 
 - 🌱 I’m currently learning **Android Development with Kotlin** and **Web Development with Python-Django**
-
-- 💬 Ask me about **HTML,CSS,Django,Python,Java**
 
 - 📫 How to reach me <a href="mailto:divyasri7702@gmail.com">Email</a> 
 
 - 😄 Pronouns: **She/Her**
 
-
-- 🥅 2022 Goals:
-<ol>
-     <li>To get an Internship</br></li>
-     <li>Improve my problem solving skills</br></li>
-     <li>Build some new projects</br></li>
-     <li>To win a Hackathon</br></li>
-     
- </ol>
  
  -Wanna know more about me -[\[MY PORTFOLIO\]](https://divyasri77.github.io/portfolio_ds/)
 
